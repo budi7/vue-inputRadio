@@ -56,16 +56,16 @@ download/clone and place it to your components directory
       v-model="input1"
       :options="{
         0: {
-          id: 'hola',
-          eng: 'laho'
+          id: 'kosong',
+          eng: 'zero'
         },
         1: {
-          id: 'hoiii',
-          eng: 'oiiih'
+          id: 'satu',
+          eng: 'one'
         },
         2: {
-          id: 'gggggg',
-          eng: 'oiiih'
+          id: 'dua',
+          eng: 'two'
         }
       }"
       name="objectInput"
